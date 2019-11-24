@@ -22,8 +22,8 @@
                         <img src="images/exit.svg" alt="exit menu">
                     </li>
                     <li><a href="#">home</a></li>
-                    <li><a href="#">services</a></li>
                     <li><a href="#">about</a></li>
+                    <li><a href="#">CV</a></li>
                     <li><a href="#">contact</a></li>
                 </ul>
             </nav>
