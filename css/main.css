@@ -184,19 +184,22 @@ h2 {
     left: 0;
     border-radius: 50%;
 }
-
-ul.footer-links {
-    margin: 0 auto;
+.footer-container ul{
+    margin: 0.5em;
+}
+.footer-container ul li img {
+    width: 200%;
 }
 
-ul.footer-links li {
+.footer-container ul li {
+    margin: 4em;
     display: inline-block;
 }
 
-ul.footer-links li a {
+/* .footer-container ul li a {
     color: #9D9D9D;
-    font-size: .8em;
-}
+    font-size: 1em;
+} */
 
 nav ul {
     position: fixed;
